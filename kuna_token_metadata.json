@@ -1,0 +1,17 @@
+{
+    "name": "Kuna",
+    "symbol": "HRK",
+    "description": "Spasimo hrvatsku kunu, naš drevni novac, od globalističkih šaka koji želi potrti sve što je hrvatsko! 91 000 000 kuna za sve ponosne Hrvate u zemlji i inozemstvu! Za sve nas koji znamo gdje smo bili devedesetiprve – vječna hrvatska valuta osigurana kriptografskom tehnologijom iz bliske budućnosti!\n\n1 HRK = 4 DEM = 2 EUR",
+    "image": "https://raw.githubusercontent.com/Bodacious92/Kuna/refs/heads/main/DALL%C2%B7E%202025-02-18%2012.23.52%20-%20A%20simple%2C%20modern%20logo%20inspired%20by%20the%20Croatian%20old%20currency%2C%20the%20Kuna.%20The%20design%20features%20a%20minimalist%20silhouette%20of%20a%20kuna%20(marten)%20in%20gold%2C%20placed%20.webp",
+    "seller_fee_basis_points": 0,
+    "mint": "79Z75asWsYn9jcC4oP618eHTCqwvn12FDgAVnTT7ZuFT",
+    "attributes": [],
+    "properties": {
+        "creators": [
+            {
+                "address": "CGx5NThJybXCK734T24nMRD1tZck744rXEwyRw3h9qx3",
+                "share": 100
+            }
+        ]
+    }
+}
